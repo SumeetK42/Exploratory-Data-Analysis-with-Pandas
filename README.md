@@ -1,2 +1,2 @@
 # Exploratory-Data-Analysis-with-Pandas
-This Project aims to do the Data analysis with Pandas on Dataset
+This Project aims to do the Exploratory Data analysis with Pandas on Dataset
